@@ -9,9 +9,9 @@ Plugin 'prettier/vim-prettier'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
-Plugin 'ryanoasis/vim-devicons'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'w0rp/ale'
+Plugin 'ryanoasis/vim-devicons'
 
 call vundle#end()
 filetype plugin indent on
